@@ -721,7 +721,9 @@ DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,agsvpt.cn
 DOMAIN-SUFFIX,chdbits.xyz
-
+DOMAIN-SUFFIX,ptlgs.org
+DOMAIN-SUFFIX,relay01.ptl.gs
+DOMAIN-SUFFIX,ptl.gs
 
 # 自定义特殊直连规则
 DOMAIN-SUFFIX,106071.xyz
